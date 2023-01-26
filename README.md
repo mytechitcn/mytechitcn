@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mytechitcn
+- # Readme
+- 👋 Hi, I’m andy
 - 👀 I’m interested in Networks
 - 🌱 I’m currently learning cisco CCIE
 - 💞️ I’m looking to collabate on ...
-- 📫 How to reach me (e-mail admin@mytechit.cn)
+- 📫 How to reach me (e-mail andy86@mytechit.cn)
 - I'm a chinese,I am currently learning English！！！
 
 <!---
